@@ -1,0 +1,11 @@
+Text,Sentiment
+"This movie was amazing! I loved every part of it.",Positive
+"Terrible film, I wouldn't recommend it to anyone.",Negative
+"An average movie, some good parts but mostly boring.",Neutral
+"Absolutely fantastic, one of the best movies I've seen!",Positive
+"Poor storyline and bad acting, very disappointing.",Negative
+"I really enjoyed the plot and the performances.",Positive
+"Not great, but not awful either, somewhere in between.",Neutral
+"Disastrous film, wasted my time watching it.",Negative
+"Such a thrilling experience, highly recommended.",Positive
+"Could have been better, the pacing was off.",Neutral
